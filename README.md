@@ -1,5 +1,5 @@
 # 👋 Welcome to Eruption's GitHub!
-Hi, I'm **Eruption**! I'm a passionate developer who loves creating engaging projects, from Roblox games to dynamic websites. I enjoy experimenting with code and building tools that make life more fun and efficient. Thanks for stopping by!
+Hi, I'm **Eruption**! I like creating projects from time to time, from Roblox games to websites. Thanks for stopping by!
 
 ## 🧑‍💻 About Me
 - **Pronouns:** He/Him
