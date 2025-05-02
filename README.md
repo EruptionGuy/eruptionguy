@@ -12,7 +12,7 @@ Here are some of my favorite projects, including the ones that I contributed to:
 - [Flashcards Plus](github.com/eruptionguy/flashcards-plus)
 - [PooPoo API](https://github.com/poopoo-api/poopoo-api)
 - [Scratch For Discord](https://github.com/scratch-for-discord/Web-Application_Frontend)
-- [VietMasters](https://www.roblox.com/games/135130599320714/Viet-Masters-RELEASE)
+- [Viet Masters!](https://www.roblox.com/games/135130599320714/Viet-Masters-RELEASE)
 - More coming soon!
 
 ## 📊 My GitHub Stats
