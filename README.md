@@ -4,7 +4,7 @@ Hi, I'm **Eruption**! I like creating projects from time to time, from Roblox ga
 ## 🧑‍💻 About Me
 - **Pronouns:** He/Him
 - **Skills:** HTML, CSS, JavaScript, Python, Lua
-- **What I Do:** I make Roblox games, websites, edit videos, and other stuff
+- **What I Do:** I make Roblox games, websites, and other stuff
 
 ## 🚀 Featured Projects
 Here are some of my favorite projects, including the ones that I contributed to:
