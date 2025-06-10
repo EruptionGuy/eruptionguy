@@ -13,6 +13,7 @@ Here are some of my favorite projects, including the ones that I contributed to:
 - [PooPoo API](https://github.com/poopoo-api/poopoo-api)
 - [Scratch For Discord](https://github.com/scratch-for-discord/Web-Application_Frontend)
 - [Viet Masters!](https://www.roblox.com/games/135130599320714/Viet-Masters-RELEASE)
+- [Markdown Blog](https://github.com/eruptionguy/markdown-blog)
 - More coming soon!
 
 ## 📊 My GitHub Stats
