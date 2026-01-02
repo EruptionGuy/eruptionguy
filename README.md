@@ -7,13 +7,14 @@ Hi, I'm **Eruption**! I like creating projects from time to time, from Roblox ga
 - **What I Do:** I make Roblox games, websites, and other stuff
 
 ## 🚀 Featured Projects
-Here are some of my favorite projects, including the ones that I contributed to:
+Here are some of my favorite projects that I contributed to:
 
 - [Flashcards Plus](github.com/eruptionguy/flashcards-plus)
 - [PooPoo API](https://github.com/poopoo-api/poopoo-api)
 - [Scratch For Discord](https://github.com/scratch-for-discord/Web-Application_Frontend)
 - [Viet Masters!](https://www.roblox.com/games/135130599320714/Viet-Masters-RELEASE)
 - [Markdown Blog](https://github.com/eruptionguy/markdown-blog)
+- [Disflow](https://github.com/DisFlowTeam/disflow)
 - More coming soon!
 
 ## 📊 My GitHub Stats
