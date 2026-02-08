@@ -21,11 +21,11 @@ Here are some projects that I made or contributed to:
 ## 📊 My GitHub Stats
 <br>
 <a href="https://github.com/eruptionguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eruptionguy&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" />
+  <img align="center" src="https://github-vercel-deployment-5avv/api?username=eruptionguy&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats" />
 </a>
 <br><br>
 <a href="https://github.com/eruptionguy?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eruptionguy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Used languages"/>
+  <img align="center" src="https://github-vercel-deployment-5avv/api/top-langs/?username=eruptionguy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Used languages"/>
 </a>
   
 ## 📫 Connect With Me
